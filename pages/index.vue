@@ -51,7 +51,7 @@ const projects = [
   },
   {
     name: "Movie app",
-    image: "/image/movie.png",
+    image: "/image/Movie.png",
     vercel: "https://new-project-pdzl69945-kidus-projects.vercel.app/",
     git: "https://github.com/kid3234/movieApp",
     languages: ["React.js", "CSS","JavaScript"],
