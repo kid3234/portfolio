@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "portfolio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"nuxt.isNuxtApp": false
+	}
+}

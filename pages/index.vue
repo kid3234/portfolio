@@ -9,7 +9,7 @@ const projects = [
   {
     name: "Event Management system",
     image: "/image/event.png",
-    vercel: "https://book-rent-frontend.vercel.app/",
+    vercel: "https://eventticket.servicespayment.net/",
     git: "",
     languages: ["Vue.js", "tailwind", "GO", "Nuxt 3", "postgresql"],
   },
@@ -23,9 +23,45 @@ const projects = [
   {
     name: "Guddummalle",
     image: "/image/gudumale.png",
-    vercel: "https://book-rent-frontend.vercel.app/",
+    vercel: "https://gudduumalee.vercel.app",
     git: "",
     languages: ["Next.js", "tailwind", "node.js", "mongodb"],
+  },
+
+  {
+    name: "Dribble.com clone project",
+    image: "/image/dribbble.png",
+    vercel: "https://dribbbleclone-76qij8cjo-kidus-projects.vercel.app/",
+    git: "https://github.com/kid3234/dribbbleclone",
+    languages: ["Next js", "tailwind", "Typescript"],
+  },
+  {
+    name: "Etsy.com clone project",
+    image: "/image/etsy.png",
+    vercel: "https://etsy-sample.vercel.app/",
+    git: "https://github.com/kid3234/etsy-sample",
+    languages: ["React.js", "tailwind","JavaScript"],
+  },
+  {
+    name: "Music app",
+    image: "/image/music.png",
+    vercel: "https://addis-crud.vercel.app/",
+    git: "https://github.com/kid3234/addis-crud",
+    languages: ["React.js", "Emotion","Redux-Saga","JavaScript"],
+  },
+  {
+    name: "Movie app",
+    image: "/image/movie.png",
+    vercel: "https://new-project-pdzl69945-kidus-projects.vercel.app/",
+    git: "https://github.com/kid3234/movieApp",
+    languages: ["React.js", "CSS","JavaScript"],
+  },
+  {
+    name: "Beli Cosmo app",
+    image: "/image/beli.png",
+    vercel: "https://product-shope.vercel.app/",
+    git: "https://github.com/kid3234/product-shope",
+    languages: ["React.js", "Tailwindcss","JavaScript"],
   },
 ];
 const isdark = ref(true);
